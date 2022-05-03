@@ -1,0 +1,8 @@
+        skill: Postman
+        skill: DBeaver
+        skill: Charles Proxy
+        skill: Fiddler
+        skill: Java Script
+        skill: Pyton
+        skill: SQL
+
