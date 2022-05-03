@@ -1,1 +1,3 @@
-
+  step1: GitHub.com
+	step2: Repo JSON
+	step3: bug_report.json
