@@ -1,0 +1,21 @@
+{
+	"skill":"GitBash",
+	"skill":"GitHub",
+	"skill":"Postman",
+	"skill":"DBeaver"
+	"skill":"Charles Proxy",
+        "skill":"Fiddler",
+        "skill":"Java Script",
+        "skill":"Piton"
+	"skill":"SQL"
+}	
+
+
+
+{
+        "Cinema":"Tommas Jeffrey Hanks, Mel Gibson films",
+        "Serial":"Yellowstone, Dexter, Game of thrones",
+        "Food":"Meat",
+        "Part of year":"All",
+        "Country":"USA"
+}
