@@ -1,0 +1,21 @@
+Android 10 End to end
+
+ToDoList app
+
+ID 1- TITLLE Установка- PRECONDITION Android 10- INPUTS install app- EXP RESAULT Installed app- ACT RESAULT Installed app- STATUS Pass
+
+ID 2- TITLLE Удаление- PRECONDITION Android 10- INPUTS delete app- EXP RESAULT Deleted app- ACT RESAULT Deleted app- STATUS Pass
+
+ID 3- TITLLE Запуск приложения- PRECONDITION Android 10, ToDoList app- INPUTS launch app- EXP RESAULT Launched app- ACT RESAULT Launched app- STATUS Pass
+
+ID 4- TITLLE Закрытие приложения- PRECONDITION Android 10, ToDoList app- INPUTS close app- EXP RESAULT Closed app- ACT RESAULT Closed app- STATUS Pass-
+
+ID 5- TITLLE Создать новый список- PRECONDITION Android 10, ToDoList app- INPUTS add new list- EXP RESAULT Created list- ACT RESAULT Created list- STATUS Pass
+
+ID 6- TITLLE Создать новую запись в списке- PRECONDITION Android 10, ToDoList app- INPUTS add new note in list- EXP RESAULT Created note- ACT RESAULT Created note- STATUS Pass
+
+ID 7- TITLLE Пометить новую запись в списке как выполненную- PRECONDITION Android 10, ToDoList app- INPUTS Mark new note in list as done- EXP RESAULT Note marked- ACT RESAULT Note marked- STATUS Pass
+
+ID 8- TITLLE Удалить выполненные записи из списка- PRECONDITION Android 10, ToDoList app- INPUTS Delete done note from the list- EXP RESAULT Note deleted- ACT RESAULT Note deleted- STATUS Pass
+
+ID 9- TITLLE Удалить выполненный список- PRECONDITION Android 10, ToDoList app- INPUTS Delete done list- EXP RESAULT List deleted- ACT RESAULT List deleted- STATUS Fail- BUG REPORT Link

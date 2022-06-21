@@ -1,0 +1,13 @@
+Android 10 smoke test
+
+ToDoList app
+
+ID 1- TITLLE Установка- PRECONDITION Android 10- INPUTS install app- EXP RESAULT Installed app- ACT RESAULT Installed app- STATUS Pass
+
+ID 2- TITLLE Запуск приложения- PRECONDITION Android 10, ToDoList app- INPUTS launch app- EXP RESAULT Launched app- ACT RESAULT Launched app- STATUS Pass
+
+ID 3- TITLLE Создать новый список- PRECONDITION Android 10, ToDoList app- INPUTS add new list- EXP RESAULT Created list- ACT RESAULT Created list- STATUS Pass
+
+ID 4- TITLLE Создать новую запись в списке- PRECONDITION Android 10, ToDoList app- INPUTS add new note in list- EXP RESAULT Created note- ACT RESAULT Created note- STATUS Pass
+
+ID 5- TITLLE Пометить новую запись в списке как выполненную- PRECONDITION Android 10, ToDoList app- INPUTS Mark new note in list as done- EXP RESAULT Note marked- ACT RESAULT Note marked- STATUS Pass
